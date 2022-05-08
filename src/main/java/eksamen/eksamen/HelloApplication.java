@@ -21,7 +21,7 @@ public class HelloApplication extends Application {
         Group root = new Group();
         Scene scene = new Scene(root, Color.BLACK);
 
-        stage.setTitle("lol");
+        stage.setTitle("lol5656");
         stage.setScene(scene);
         stage.show();
 
